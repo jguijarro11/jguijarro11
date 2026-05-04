@@ -96,5 +96,3 @@ Soy Ingeniero Informático y actualmente Tech Lead en Selectra, donde lidero el 
 
 **Educación**:
 - Universidad Politécnica de Madrid — Grado en Ingeniería Informática (2015–2020)
-
-**CV (descargar)**: [Descargar CV (PDF)](files/Jorge_Guijarro_resume.pdf)
