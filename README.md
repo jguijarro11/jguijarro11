@@ -41,6 +41,28 @@ Construyo sistemas backend que escalan. Especializado en Python, arquitectura he
 
 ---
 
+## 🚀 Proyectos
+
+### [Koi](https://github.com/jguijarro11/my-own-koi) · Android
+
+Aplicación Android para entrenar en casa, **totalmente offline**: sin backend, sin cuenta y sin permiso de red. Sustituye una hoja de cálculo que sabía planificar pero no guiar la sesión.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-2196F3?style=flat&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+
+Lo que tiene de interés más allá del CRUD:
+
+- **Temporizador guiado sobre instantes absolutos** en lugar de un contador que alguien decrementa. Sobrevivir a la pantalla apagada, a *doze* y a la muerte del proceso es una propiedad de la representación, no de código defensivo.
+- **Arquitectura por capas con dependencias invertidas** y dominio puro sin Android: 269 tests en JVM, sin emulador, en menos de diez segundos.
+- **Una sola puerta de calidad** (`./gradlew qualityCheck`) que CI ejecuta sin variantes, de modo que un verde local y un verde en CI significan lo mismo.
+- **Esquema de base de datos versionado en el repositorio**: un cambio sin migración rompe la build en vez de un dispositivo.
+- **Documentación como entregable**: documento de arquitectura, ocho ADR y especificación del formato de intercambio.
+
+---
+
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--guijarro--del--nuevo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-guijarro-del-nuevo)
