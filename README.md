@@ -1,28 +1,31 @@
 # Hola, soy Jorge 👋
 
-**Backend Tech Lead** en [Selectra](https://selectra.es) · Madrid, Spain
+**Desarrollador Full Stack Senior** en [Cuimo](https://cuimo.com) · Madrid, España
 
-Construyo sistemas backend que escalan. Especializado en Python, arquitectura hexagonal y plataformas cloud (GCP). Apasionado por el diseño de sistemas limpios, el trabajo en equipo y la mejora continua.
+Construyo software de punta a punta, pegado al negocio. Desarrollo la web de venta, el ERP interno y las integraciones con servicios externos de Cuimo con Node.js, TypeScript, React, AWS y MongoDB, apoyándome en Claude para el desarrollo guiado por IA. Antes, Backend Tech Lead en Selectra con Python y GCP. Apasionado por el diseño de sistemas limpios, el trabajo en equipo y la mejora continua.
 
 ---
 
 ## 🛠️ Stack principal
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
@@ -32,7 +35,8 @@ Construyo sistemas backend que escalan. Especializado en Python, arquitectura he
 
 | Empresa | Rol | Período |
 |---|---|---|
-| **Selectra** | Backend Tech Lead | Dic 2025 – Presente |
+| **Cuimo** | Desarrollador Full Stack Senior | Jun 2026 – Presente |
+| **Selectra** | Backend Tech Lead | Dic 2025 – Jun 2026 |
 | **Selectra** | Ingeniero de Software | Mar 2024 – Dic 2025 |
 | **Alisys** | Desarrollador I+D | Sep 2023 – Feb 2024 |
 | **Sabio** | Desarrollador | Jul 2022 – Sep 2023 |
@@ -71,14 +75,15 @@ Lo que tiene de interés más allá del CRUD:
 
 
 **Extracto**:
-Soy Ingeniero Informático y actualmente Tech Lead en Selectra, donde lidero el desarrollo backend de aplicaciones críticas enfocadas al negocio, diseñadas para escalar y mantenerse en el tiempo. Mi especialidad es construir sistemas robustos utilizando Python (FastAPI y Django), aplicando principios de arquitectura hexagonal y buenas prácticas de ingeniería que permiten evolucionar productos sin comprometer su calidad. He evolucionado desde roles de desarrollo hasta responsabilidades de liderazgo técnico, gestionando equipos multidisciplinares en remoto y coordinando con stakeholders para alinear tecnología y negocio. Trabajo habitualmente con entornos cloud (GCP), pipelines de CI/CD, contenedores Docker y herramientas de calidad de código, con foco en escalabilidad, mantenibilidad y time-to-market.
+Soy Ingeniero Informático y actualmente Desarrollador Full Stack Senior en Cuimo, donde desarrollo la web de venta, el ERP interno y las integraciones con servicios externos, en contacto constante con los distintos departamentos para entender sus necesidades de negocio. Trabajo con Node.js y TypeScript en backend, React en frontend, AWS y MongoDB, y uso Claude para el desarrollo guiado por IA. Anteriormente fui Backend Tech Lead en Selectra, donde lideré el desarrollo backend de aplicaciones críticas enfocadas al negocio utilizando Python (FastAPI y Django), aplicando principios de arquitectura hexagonal y buenas prácticas de ingeniería que permiten evolucionar productos sin comprometer su calidad. He evolucionado desde roles de desarrollo hasta responsabilidades de liderazgo técnico, gestionando equipos multidisciplinares en remoto y coordinando con stakeholders para alinear tecnología y negocio. Trabajo habitualmente con entornos cloud (AWS, GCP), pipelines de CI/CD, contenedores Docker y herramientas de calidad de código, con foco en escalabilidad, mantenibilidad y time-to-market.
 
 **Habilidades principales**:
-- Backend: Python (FastAPI, Django), Ruby on Rails, Node.js, Java
+- Backend: Node.js, TypeScript, Python (FastAPI, Django), Ruby on Rails, Java
+- Frontend: React
 - Arquitectura: System Design, Microservicios, Arquitectura hexagonal
-- Cloud / DevOps: Google Cloud Platform (GCP), Docker, Kubernetes, CI/CD, GitHub Actions
-- Bases de datos: PostgreSQL, Firestore, MongoDB, MySQL
-- Herramientas y prácticas: Git, SonarQube, Agile, Code Reviews, Testing
+- Cloud / DevOps: AWS, Google Cloud Platform (GCP), Docker, Kubernetes, CI/CD, GitHub Actions
+- Bases de datos: MongoDB, PostgreSQL, Firestore, MySQL
+- Herramientas y prácticas: Git, SonarQube, Agile, Code Reviews, Testing, desarrollo guiado por IA (Claude)
 - Idiomas: Inglés (Professional Working), Español (Nativo)
 
 **Certificaciones y formación**:
@@ -90,7 +95,11 @@ Soy Ingeniero Informático y actualmente Tech Lead en Selectra, donde lidero el 
 
 **Experiencia**:
 
-- Selectra — Jefe Técnico / Backend Tech Lead — Dic 2025 – Presente
+- Cuimo — Desarrollador Full Stack Senior — Jun 2026 – Presente
+	- Responsabilidades: desarrollo de la web de venta de Cuimo, del ERP interno de la empresa y de integraciones con servicios externos; contacto constante con los distintos departamentos para entender las necesidades de negocio.
+	- Stack: Node.js, TypeScript, React, MongoDB, AWS, Claude
+
+- Selectra — Jefe Técnico / Backend Tech Lead — Dic 2025 – Jun 2026
 	- Responsabilidades: liderazgo técnico del equipo backend, definición de arquitectura y decisiones técnicas, coordinación con frontend/producto y stakeholders, gestión de equipo multidisciplinar en remoto.
 	- Impacto: diseño e implementación de sistemas backend escalables en Python (FastAPI, Django); mejora de la calidad del código con SonarQube; automatización de despliegues en GCP mediante pipelines CI/CD.
 	- Stack: Python, FastAPI, Django, PostgreSQL, Firestore, Docker, GCP, GitHub Actions, SonarQube
